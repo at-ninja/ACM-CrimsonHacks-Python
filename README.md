@@ -1,2 +1,2 @@
-# ACM-CrimsonHacks-Python-testbuild
-A test for the upcoming CrimsonHacks Prep
+# ACM-CrimsonHacks-Python
+CrimsonHacks Prep Workshop
